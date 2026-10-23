@@ -12,7 +12,7 @@ lo puede afinar; el bucle lo lee en cada corrida.
 
 ## 2. Verificar antes de escribir
 
-- Toda variación de tasa se expresa en puntos porcentuales; toda variación de personas, en porcentaje.
+- Toda variación de tasa se expresa en puntos porcentuales; toda variación de personas, en porcentaje. Usa la herramienta `calcular_variacion` para toda variación de tasas.
 - Si una cifra no aparece en el texto obtenido, no la inventes: omítela o escribe "no consta".
 - Los inactivos no son desempleados: nunca los sumes ni los confundas.
 

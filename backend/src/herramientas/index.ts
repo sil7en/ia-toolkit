@@ -4,12 +4,14 @@ import type { Herramienta, ContextoHerramienta } from "../tipos";
 import { herramientaUltimoBoletin, herramientaBoletin } from "./ine";
 import { herramientaMemoria } from "./memoria";
 import { herramientaBuscar } from "./corpus";
+import { herramientaCalcularVariacion } from "./variacion";
 
 export const herramientas: Herramienta[] = [
   herramientaUltimoBoletin,
   herramientaBoletin,
   herramientaBuscar,
   herramientaMemoria,
+  herramientaCalcularVariacion,
   // ← las herramientas nuevas se agregan aquí
 ];
 
